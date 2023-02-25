@@ -1,0 +1,215 @@
+ 
+
+body { 
+	background-image: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url("./foto/sfondo.jpg");
+	background-size: cover;
+	width: 99%;
+	font-family: 'Oswald', sans-serif;
+	margin: auto;
+	}
+
+h1{
+	font-family: 'Ubuntu', sans-serif;'; 
+	margin-left: px;
+	color: whitesmoke;
+	font-size: 25px;
+	padding-left: 15px
+	}
+
+h2{
+ font-family: 'Ubuntu', sans-serif;'; 
+ font-size: 90%;
+ padding: 2%;
+ color: black;
+ }
+
+h3{
+ font-family:  'Ubuntu', sans-serif;' 
+ font-size: 2%;
+ color: black;
+	}
+
+p{
+ font-family: 'Ubuntu', sans-serif;' 
+ padding: ;
+ font-size:90%;
+ color: black;
+	}
+
+table {
+		margin-top: px;
+		margin-right: px ;
+		border: solid px;
+		border-color: darkred;
+		margin-bottom: px;
+		width: 100%;
+		margin: auto;
+		}
+
+th, td {
+  border: solid px;
+  border-color: black;
+  float: ;
+  width: %;
+
+  }
+
+
+/* div */
+
+  #div_header {     
+ 	background-color: black;
+	color: #d6002e;
+	height: 150px;
+	width: 100%;
+	
+	margin-right: px;
+	margin-top: px;
+	padding-top: px;
+	padding-bottom: px;
+	border-radius: px;
+	border-radius: px;
+	}
+
+	#div_menu {         
+	background-color:;
+	color: ;
+	height: ;
+	width: 100%;
+	padding: px;
+	margin-right: px;
+	margin-top: px;
+	margin-bottom: ;
+	border-radius: px;
+	}
+
+	#div_1 {          /* TITOLO SITO */
+	background-color: rgba(180,22,22,0.0);
+	height: 120px;
+	padding: 30px;
+	margin-left: px;
+	margin-top: px;
+	border-radius: px;
+	}
+
+
+	
+
+	#div_caption {          /* CAPTION */
+	background-color: rgba(0,0,0,0.3);
+	color: ;
+	height: 5%;
+	width: ;
+	padding: 0px;
+	margin: ;
+	margin-top: ;
+	border-radius: px;
+	border-radius: px;
+	}
+
+#div_page {     /* footer */
+ 	background-color: ;
+	color: ;
+	height: ;
+	width: 85%;
+	padding: px;
+	margin:auto;
+	margin-top: px;
+	border-radius: px;
+	border-radius: px;
+	}
+
+ #div_footer {     /* footer */
+ 	background-color: black;
+	color: ;
+	height: 300px;
+	width: 100%;
+	padding: px;
+	margin-right: px;
+	margin-top: px;
+	border-radius: px;
+	border-radius: px;
+	}
+
+	
+
+	#div_line {     /* decoration */
+ 	background-color: ;
+	color: ;
+	height: 8px;
+	width: 100%;
+	padding: px;
+	margin-right: px;
+	margin-top: px;
+	border-radius: px;
+	}
+
+
+	#div_sep1 {          
+	background-color: ;
+	color: ;
+	height:fit-content;
+	width:25%;
+	padding:px;
+	margin: ;
+	margin-top: px;
+	border-radius: px;
+	}
+
+	
+
+
+/* link */
+		a:link, a:visited {
+			text-decoration: none;
+			color: black;
+		}
+		a:hover {
+			text-decoration: none;
+			color: black;
+		}
+		a:active {
+			text-decoration: none;
+			color: #goldenrod;
+		}
+
+
+
+/* classi */
+
+
+}
+
+
+
+.divtesto {
+  width: px;
+  text-align: justify;
+  font-size: 20px;
+  padding-left: 20px;
+	padding-right: 20px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+.ptesto { 
+	text-align: justify;
+	margin: px;
+	margin-left: px;
+	padding: 20px;
+	padding-right: px;
+	padding-bottom: px;
+	font-size: 18px;
+	font-family: 'ubuntu', sans-serif;
+	line-height: 1.5;
+	}
+
+.h2red{
+ font-family: 'Ubuntu', sans-serif;'; 
+ font-size: 140%;
+ padding: 2%;
+ color: #d6002e;
+ }
+
+
+
+
